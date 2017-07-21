@@ -1,0 +1,22 @@
+{
+  "name": "stt-longtext-nodejs",
+  "version": "1.0.0",
+  "description": "nodejs project to convert long texts to audio files",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandrodvd/stt-longtext-nodejs.git"
+  },
+  "author": "Leandor David (leandrodvd@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leandrodvd/stt-longtext-nodejs/issues"
+  },
+  "homepage": "https://github.com/leandrodvd/stt-longtext-nodejs#readme",
+  "dependencies": {
+    "watson-developer-cloud": "^2.34.0"
+  }
+}
